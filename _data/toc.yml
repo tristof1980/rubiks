@@ -1,0 +1,12 @@
+- title: "Rubik's Cubes"
+  url: "rubiks"
+  children:
+    - title: 2x2x2
+      url: "rubiks/2x2"
+      children:
+        - title: "Ortega Method"
+          url: "rubiks/2x2/ortega"
+    - title: 3x3x3
+      url: "rubiks/3x3"
+- title: "About"
+  url: "about"
